@@ -10,7 +10,6 @@ Frontend: https://peaceful-daifuku-9166fa.netlify.app
 
 Backend: https://anchors-project-production-7f25.up.railway.app
 
----
 
 # 📌 Features
 
