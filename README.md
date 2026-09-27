@@ -1,8 +1,8 @@
-# ThreadNest – MERN Threaded Discussion Forum
+# Blogify – MERN
 
 ThreadNest is a full-stack MERN application that allows users to create discussion threads, reply with deeply nested comments, and earn dynamic credits based on discussion depth. The project demonstrates recursive comment handling, authentication, REST API development, and production deployment.
 
----
+
 
 # 🚀 Live Demo
 
